@@ -1,1 +1,2 @@
-||turk.net^$client='Mchd-Mac'
+||turk.net^
+||gibir.net.tr^
