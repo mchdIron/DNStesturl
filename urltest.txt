@@ -1,2 +1,3 @@
 ||turk.net^
 ||gibir.net.tr^
+@@||turktelekom.com.tr^
