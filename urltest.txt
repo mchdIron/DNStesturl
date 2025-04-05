@@ -25,3 +25,8 @@
 ||tabii.com^
 ||gazi.edu.tr^
 ||tr.tv.global.mi.com^
+||imo.im^
+||cdn.imo.im^
+||stun.imo.im^
+||api.imo.im^
+||chat.imo.im^
