@@ -14,6 +14,7 @@
 @@||booking.com^
 @@||cl.turkishairlines.com^$important
 @@||www.croxyproxy.com^$important
+@@||tailscale.com^$important
 #Blacklist
 ||tvbetframe15.com^
 ||meritking1598.com^
