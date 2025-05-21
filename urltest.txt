@@ -32,3 +32,10 @@
 ||stun.imo.im^
 ||api.imo.im^
 ||chat.imo.im^
+patronlardunyasi.com^
+toki.gov.tr^
+hayirlitabir.com^
+ruyaanlami.com^
+sahibinden.com^
+shbdn.com^
+hyundai.com^
