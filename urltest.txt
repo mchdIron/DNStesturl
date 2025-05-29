@@ -16,6 +16,7 @@
 @@||www.croxyproxy.com^$important
 @@||tailscale.com^$important
 @@||microsoft.com^$important
+@@||whatsapp.net^$important
 #Blacklist
 ||tvbetframe15.com^
 ||meritking1598.com^
