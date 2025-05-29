@@ -15,6 +15,7 @@
 @@||cl.turkishairlines.com^$important
 @@||www.croxyproxy.com^$important
 @@||tailscale.com^$important
+@@||microsoft.com^$important
 #Blacklist
 ||tvbetframe15.com^
 ||meritking1598.com^
