@@ -38,8 +38,8 @@
 ||toki.gov.tr^
 ||hayirlitabir.com^
 ||ruyaanlami.com^
-||sahibinden.com^
-||shbdn.com^
+#||sahibinden.com^
+#||shbdn.com^
 ||hyundai.com^
 ||moovitapp.com^
 ||basaksehir.bel.tr^
