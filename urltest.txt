@@ -14,9 +14,6 @@
 @@||booking.com^
 @@||cl.turkishairlines.com^$important
 @@||www.croxyproxy.com^$important
-@@||tailscale.com^$important
-@@||microsoft.com^$important
-@@||whatsapp.net^$important
 #Blacklist
 ||tvbetframe15.com^
 ||meritking1598.com^
@@ -38,8 +35,8 @@
 ||toki.gov.tr^
 ||hayirlitabir.com^
 ||ruyaanlami.com^
-#||sahibinden.com^
-#||shbdn.com^
+||sahibinden.com^
+||shbdn.com^
 ||hyundai.com^
 ||moovitapp.com^
 ||basaksehir.bel.tr^
