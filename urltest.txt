@@ -48,3 +48,4 @@
 ||istanbul.csb.gov.tr^
 ||emlakjet.com^
 ||hepsiemlak.com^
+||itu.edu.tr^
