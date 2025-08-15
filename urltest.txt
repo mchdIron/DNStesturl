@@ -49,3 +49,5 @@
 ||emlakjet.com^
 ||hepsiemlak.com^
 ||itu.edu.tr^
+||teknofest.app^
+||milimaj.com^
