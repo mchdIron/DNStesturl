@@ -51,3 +51,6 @@
 ||itu.edu.tr^
 ||teknofest.app^
 ||milimaj.com^
+||nextconnect.app^
+||marmaray.istanbul^
+||jooble.org^
