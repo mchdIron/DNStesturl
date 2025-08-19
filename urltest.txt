@@ -54,3 +54,4 @@
 ||nextconnect.app^
 ||marmaray.istanbul^
 ||jooble.org^
+||emlakkulisi.com^
