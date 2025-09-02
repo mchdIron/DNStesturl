@@ -18,6 +18,7 @@
 @@||restream.io^$important
 @@||restream.io^$important
 @@||tailscale.com^$important
+@@||tracking.trendyol.com^$important
 #Blacklist
 ||tvbetframe15.com^
 ||meritking1598.com^
